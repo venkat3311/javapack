@@ -1,0 +1,2 @@
+# javapack
+java details
